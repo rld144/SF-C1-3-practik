@@ -1,5 +1,5 @@
 TOKEN = ''
-headers = {'apikey': 'EQGW2h2NSXbwsfZNBzfEGiJtQLdjEgtW'}
+headers = {'apikey': ''}
 keys = {
     'рубль':'RUB',
     'евро':'EUR',
